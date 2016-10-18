@@ -1,0 +1,11 @@
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- Test1
+- Test2
+- ip_address: 1.1.1.1
+  platform: c7200
+  provider: Cisco
